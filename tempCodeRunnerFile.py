@@ -1,0 +1,1 @@
+print(f"\n{' '.join(map(str, lst))}\n")
